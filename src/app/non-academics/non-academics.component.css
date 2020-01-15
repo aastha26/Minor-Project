@@ -1,0 +1,63 @@
+mat-grid-tile{
+    background-color: #FF0000;
+}
+
+.pic2{
+    background-image: url(/assets/images/nonfic.jpg);
+}
+
+p{
+    opacity: 0;
+}
+
+.pic4{
+    background-image: url(/assets/images/sci.jpg);
+}
+
+
+
+
+.pic1{
+    /*background: url(/assets/images/col1.jpg);*/
+    opacity: 0.9;
+}
+/*.pic5{
+    background-image: url(/assets/images/hg.jpg);
+}*/
+
+h4{
+    opacity: 1;
+}
+
+.fic{
+    background-image: url(/assets/images/fic.jpg);
+}
+
+.rom{
+    background-image: url(/assets/images/rom.jpg);
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+  h1{
+    color: black;
+}
+h5{
+    color: yellow;
+}
